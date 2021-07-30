@@ -9,12 +9,12 @@
 }
 body{
 font-family: 'Lexend Deca', sans-serif;
+font-size: 15px;
 margin-top: 0px;
 margin-left: 0px;
 margin-right: 0px;
 margin-bottom: 0px;
 padding: 100px  ;
-font-size: 15px;
 background-color: var(--very-light-gray);
 display: flex;
 flex-direction: column;
@@ -45,12 +45,13 @@ justify-content: center;
     border-radius: 0px 10px 10px 0px;
 }
 img, h1, p {
-    margin-bottom: 2em;
+    margin-bottom: 1.3em;
 }
 h1{
     font-family: 'Big Shoulders Display', cursive;
     text-transform: uppercase;
     color: var(--very-light-gray);
+    font-size: 3em;
 }
 p {
     color: var(--transparent-white);
